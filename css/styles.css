@@ -2,7 +2,7 @@ img {
 }
 
 body{
-    background: lightblue;
+    background: #F26419;
     font-size: 12px;
 }
 
@@ -24,11 +24,15 @@ F6AE2D - Honey Yellow
 .ques{
     background: #33658A;
     display: block;
+    /* justify-content: center; */
     color: white;
     padding: 10 10 10 10;
+    width: 80%;
+    border: 5px  solid #F6AE2D;
     margin: 0 auto;
     font-size: x-large;
-    line-height: 2;;
+    line-height: 2;
+    /* text-align: center; */
 }
 .hidea{
     text-decoration: none;
