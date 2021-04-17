@@ -1,0 +1,42 @@
+img {
+}
+
+body{
+    background: lightblue;
+    font-size: 12px;
+}
+
+.btn{
+    color: lightblue;
+    background: darkorange;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+/*
+F26419 - Orange Blaze
+F6AE2D - Honey Yellow
+758E4F - Moss Green
+86BBD8 - Dark Sky Blue
+33658A - Queen Blue
+
+*/
+.ques{
+    background: #33658A;
+    display: block;
+    color: white;
+    padding: 10 10 10 10;
+    margin: 0 auto;
+    font-size: x-large;
+    line-height: 2;;
+}
+.hidea{
+    text-decoration: none;
+    color: white;
+}
+.normala{
+    color: white;
+}
+.ans{
+    padding-left: 50px;
+}
